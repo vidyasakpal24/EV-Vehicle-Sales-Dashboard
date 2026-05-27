@@ -56,8 +56,8 @@ The dashboard helps in understanding EV growth, vehicle distribution, manufactur
 
 ## Files Included
 - `EV Dashboard.pbix` — Main Power BI dashboard file
-- `Dataset Files` — Raw dataset used for analysis and visualization
-- `EV Dashboard.png` — Screenshot preview of the dashboard
+- `Electric_Vehicle_Population_Data.csv` — Dataset used for analysis and dashboard creation
+- `EV_Dashboard.png` — Screenshot preview of the dashboard
 
 ---
 
@@ -71,5 +71,4 @@ The dashboard helps in understanding EV growth, vehicle distribution, manufactur
 
 ## Author
 Vidya Khandare
-
-Aspiring Data Analyst
+Team Leader | Market Research Analyst | Consumer Insights & Marketing Strategy Specialist | PGDMM | 15+ Years of Experience
